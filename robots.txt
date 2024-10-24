@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://yixajixe.github.io/sitemap/sitemap_index.yixajixe
+Sitemap: https://yixajixe.github.io/oAb/sitemap_index.yixajixe
+Sitemap: https://yixajixe.github.io/Dec/sitemap_index.yixajixe
+Sitemap: https://yixajixe.github.io/dEr/sitemap_index.yixajixe
+Sitemap: https://yixajixe.github.io/oqe/sitemap_index.yixajixe
+Sitemap: https://yixajixe.github.io/jBA/sitemap_index.yixajixe
+Sitemap: https://yixajixe.github.io/Rch/sitemap_index.yixajixe
+Sitemap: https://yixajixe.github.io/NbX/sitemap_index.yixajixe
+Sitemap: https://yixajixe.github.io/mtd/sitemap_index.yixajixe
+Sitemap: https://yixajixe.github.io/wxd/sitemap_index.yixajixe
+Sitemap: https://yixajixe.github.io/ANr/sitemap_index.yixajixe
+Sitemap: https://yixajixe.github.io/WXv/sitemap_index.yixajixe
+Sitemap: https://yixajixe.github.io/INW/sitemap_index.yixajixe
+Sitemap: https://yixajixe.github.io/mHg/sitemap_index.yixajixe
+Sitemap: https://yixajixe.github.io/qkL/sitemap_index.yixajixe
+Sitemap: https://yixajixe.github.io/UpD/sitemap_index.yixajixe
+Sitemap: https://yixajixe.github.io/Nvh/sitemap_index.yixajixe
+Sitemap: https://yixajixe.github.io/iQw/sitemap_index.yixajixe
+Sitemap: https://yixajixe.github.io/xjT/sitemap_index.yixajixe
+Sitemap: https://yixajixe.github.io/vTp/sitemap_index.yixajixe
+Sitemap: https://yixajixe.github.io/BWp/sitemap_index.yixajixe
